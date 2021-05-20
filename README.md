@@ -1,7 +1,7 @@
 # Homework 05/20/2021
 Frame used: Pytorch [`pytorch.ipynb`](pytorch.ipynb)  
 Q1:   Training accuracy: 97.48%  
-      Testing accuracy: 87.60%  
+>Testing accuracy: 87.60%  
 Q2:   Training accuracy: 82.07%  
       Testing accuracy: 80.40%  
 Q3:   Training accuracy: 97.92%  
