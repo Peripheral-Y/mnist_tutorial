@@ -1,15 +1,15 @@
 # Homework 05/20/2021
 Frame used: Pytorch [`pytorch.ipynb`](pytorch.ipynb)<br>
-Q1:   Training accuracy: 97.48%<br>
-      Testing accuracy: 87.60%<br>
-Q2:   Training accuracy: 82.07%<br>
-      Testing accuracy: 80.40%<br>
-Q3:   Training accuracy: 97.92%<br>
-      Testing accuracy: 86.10%<br>
-Q4:   Training accuracy: 91.97%<br>
-      Testing accuracy: 88.50%<br>
-Q5:   Training accuracy: 99%<br>
-      Testing accuracy: 98%
+Q1:<br>
+Training accuracy: 97.48%     Testing accuracy: 87.60%<br>
+Q2:<br>
+Training accuracy: 82.07%     Testing accuracy: 80.40%<br>
+Q3:<br>
+Training accuracy: 97.92%     Testing accuracy: 86.10%<br>
+Q4:<br>
+Training accuracy: 91.97%     Testing accuracy: 88.50%<br>
+Q5:<br>
+Training accuracy: 99%  Testing accuracy: 98%
 
 # mnist_tutorial
 A tutorial for MNIST handwritten digit classification using sklearn, PyTorch and Keras.
